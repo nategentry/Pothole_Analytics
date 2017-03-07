@@ -3,4 +3,4 @@ An investigation into the city of Boston's ability to fill potholes as requested
 
 Ultimately our team discovered a wide disparity by zip code in the city's ability to fill potholes within it's target timeframe of two days. By integrating census data into our analysis we we able to discover demographic differences that correlated to a higher percentage of potholes being filled within the target timeframe.
 
-The attached Jupyter notebook contains all code used and a full brief on all methods and findings from the project.
+The attached Jupyter notebook contains all code used and a full brief on all methods and findings from the project. Included visualizations were created in Tableau and imported as images.
